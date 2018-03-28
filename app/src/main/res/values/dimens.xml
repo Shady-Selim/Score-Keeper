@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="team_text_padding">25dp</dimen>
-    <dimen name="team_text_size">25sp</dimen>
+    <dimen name="team_text_size">15sp</dimen>
+    <dimen name="team_text_size_big">25sp</dimen>
 </resources>

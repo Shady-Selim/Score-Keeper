@@ -3,6 +3,6 @@
     <string name="my_team">My Team</string>
     <string name="opponent_team">Opponent Team</string>
     <string name="separator">:</string>
-    <string name="score">Score</string>
+    <string name="score">%1$d Point Shoot</string>
     <string name="reset">Reset</string>
 </resources>
